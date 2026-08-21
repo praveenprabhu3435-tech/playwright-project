@@ -1,0 +1,13 @@
+{
+   "name":"Praveen",
+   "Id":3435,
+   "address":"Chennai",
+   "roles":"clear",
+    "contact":{
+      
+        "phone1":"9789998590",
+        "phone2":"9809875650"
+    },
+      "skill":["SQL","GENAI","JAVA"]
+
+} 
